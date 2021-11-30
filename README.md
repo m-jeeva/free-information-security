@@ -1,5 +1,9 @@
 # free-information-security
 Free course for Information Security by NPTEL(National Programme on Technology Enhanced Learning)
+this cources are Taught by the IIT professor
+
+**by clicking the heading you can access the course page** 
+
 
 
 - [Introduction to Information Security - I:](https://nptel.ac.in/courses/106/106/106106129/)
@@ -22,7 +26,6 @@ Free course for Information Security by NPTEL(National Programme on Technology E
     - Week 5:  Windows and Linux security, Types of Audits in Windows Environment: Server Security, Active Directory (Group Policy), Anti-Virus, Mails, Malware, End point protection, Shadow Passwords, SUDO users, etc
     - Week 6:  Web Application Security: OWASP, Common Issues in Web Apps, What is XSS, SQL injection, CSRF, Password Vulnerabilities, SSL, CAPTCHA, Session Hijacking, Local and Remote File Inclusion, Audit Trails, Web Server Issues, etc
        
-
 
 - [Introduction to Information Security - II:](https://nptel.ac.in/courses/106/106/106106141/)
     - Week 1:  Hardware Security in Modern Compute Systems
