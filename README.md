@@ -67,7 +67,7 @@ this cources are Taught by the IIT professor
 **** 
 
 - [Introduction to Information Security - III:](https://nptel.ac.in/courses/106/106/106106157/)
-    - Weeks 1 and 2:  Introduction to Operating Systems fundamentals - Process, Memory, File System management.Weeks 
+    - Weeks 1 and 2:  Introduction to Operating Systems fundamentals - Process, Memory, File System management.
     - Weeks 3 and 4:  Introduction to Linux,  Basic commands and file handling commands, Standard I/O, pipes and standard error related commands, Task Control commands, Basics of System administrationWeeks 
     - Weeks 5 and 6:  UNIX Basic scripting, Setting environment variables and using them in command line, Basic looping syntaxes in shell script, Continuation of looping syntaxes in shell script, practicing sample shell scriptsWeeks 
     - Weeks 7 and 8:  Networking Basics, Networking Terminologies, Structure of Internet and packet delays: Introduction, Network devices, Network Administration in Linux
