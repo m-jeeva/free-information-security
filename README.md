@@ -59,7 +59,8 @@ this cources are Taught by the IIT professor
     - Week 4:  Memory Segmentation
     - Week 5:  Virtual memory and Paging 
     - Week 6:  Interrupt Service Routines
-    - Week 7:  Task Switching8.Establishing Hardware Root of Trust
+    - Week 7:  Task Switching
+    - week 8: Establishing Hardware Root of Trust
 
    **[start learning](https://nptel.ac.in/courses/106/106/106106141/)**
 
